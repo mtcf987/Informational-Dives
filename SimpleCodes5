@@ -1,0 +1,7 @@
+Simple Python Codes
+Reverse a String
+
+Example:
+string = "hello"
+reversed_string = string[::-1]
+print("Reversed string:", reversed_string)
